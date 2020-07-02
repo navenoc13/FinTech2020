@@ -11,7 +11,7 @@ Pass Code：5434
 
 說明：
 
-  - 以python 開發交易策略（參考文件：https://github.com/Crypto-Arsenal/public-docs），提交至CSIE5434 比賽。
+  - 以python 開發交易策略（參考文件：https://github.com/Crypto-Arsenal/public-docs), 提交至CSIE5434 比賽。
   - 初始模擬資金為100,000 USDT。
   - Binance交易所BTC/USDT實時模擬交易。
   - 市價單交易，手續費0.1%。
